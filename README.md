@@ -18,6 +18,7 @@
 - 1월 : [테스트 주도 개발](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261024&orderClick=LEa&Kc=)
 - 2월 : [함께 자라기](http://www.yes24.com/Product/Goods/67350256)
 - 3월 : [실용주의 프로그래머](http://www.yes24.com/Product/Goods/12501565)
+- 4월 : [도메인 주도 개발 시작하기](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162245385)
 
 
 ## 예정 책 목록
